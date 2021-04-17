@@ -15,7 +15,7 @@
                             
                             <p> <a href="http://www.facebook.com/sharer.php?u=http://Vertotweets.comxa.com" target="_blank"><span class="fa fa-facebook"></span> Share via Facebook</a></p>
                             
-                            <p class="aboutInfo"><span class="glyphicon glyphicon-phone-alt"></span> <b>HelpDesk:</b> <a href="mailto:vinaychauhan3012@gmail.com">admin@Vertotweets.com</a></p>
+                            <p class="aboutInfo"><span class="glyphicon glyphicon-phone-alt"></span> <b>HelpDesk:</b> <a href="mailto:anshjha963@.com">admin@Vertotweets.com</a></p>
 
                             <p>&copy; Vertos 2021</p>
                         </div>

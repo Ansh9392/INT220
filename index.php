@@ -392,9 +392,9 @@ if (isset($_SESSION['username'])){
                     </div>
                     <div class="col-md-8 col-xs-10" style="padding-left:30px;">
                         <h1 style="margin-top: 50px;">About</h1><br>
-                        <p class="aboutInfo"><span class="glyphicon glyphicon-envelope"></span> <b>Mail Us:</b><br> <a href="mailto:vinaychauhan3012@gmail.com">vinaychauhan3012@gmail.com</a></p>
+                        <p class="aboutInfo"><span class="glyphicon glyphicon-envelope"></span> <b>Mail Us:</b><br> <a href="mailto:anshjha963@gmail.com">anshjha963@gmail.com</a></p>
 
-                        <p class="aboutInfo"><span class="glyphicon glyphicon-phone"></span> <b>Contact Us:</b><br> 08826636367</p>
+                        <p class="aboutInfo"><span class="glyphicon glyphicon-phone"></span> <b>Contact Us:</b><br> 09304434441</p>
 
                         <p class="aboutInfo"><i class="fa fa-facebook-square"></i> <b>Follow Us:</b><br> <a href="http://Facebook.com/VertosTweets">Facebook.com/VertoTweets</a></p>
                         <br>
